@@ -1,0 +1,7 @@
+*.dll
+*.exe
+.DS_Store
+bin/
+
+# IDEs
+.vscode/
