@@ -4,7 +4,7 @@ Golang项目结构参考规范
 
 ## 简介
 
-该规范考虑平台组项目当前情况，也参考了Go开源生态中一些项目：
+该规范参考了Go开源生态中一些项目：
 
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 - [Docker](https://github.com/moby/moby)
